@@ -1,6 +1,6 @@
 const About = () => {
     return (
-        <h1>
+        <h1 className="text">
             Це сторінка про нас
         </h1>
     );
