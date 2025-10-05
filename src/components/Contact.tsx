@@ -1,9 +1,7 @@
-const Contact = () => {
+export function Contact() {
     return (
-        <h1 className="text">
+        <h1>
             Це контактна сторінка
         </h1>
     );
-};
-
-export default Contact;
+}
