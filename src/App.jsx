@@ -1,8 +1,8 @@
 import './App.css'
 import {BrowserRouter, Routes, Route, NavLink} from "react-router";
-import {Home} from './components/Home.js'
-import {About} from './components/About.js'
-import {Contact} from './components/Contact.js'
+import {Home} from './components/Home'
+import {About} from './components/About'
+import {Contact} from './components/Contact'
 
 const App = () => (
 
